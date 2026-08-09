@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Allow Git metadata
+!.gitignore
+
+# Allow project documentation
+!README.md
+!docs/
+!docs/**
+
+# Allow server configuration
+!server/
+!server/server.properties.example
