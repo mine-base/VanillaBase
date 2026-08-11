@@ -1,14 +1,26 @@
 # Ignore everything by default
 *
 
-# Allow Git metadata
+# Project files
 !.gitignore
-
-# Allow project documentation
 !README.md
+
+# Documentation
 !docs/
 !docs/**
 
-# Allow server configuration
-!server/
-!server/server.properties.example
+# Configuration
+!config/
+!config/**
+
+# Scripts
+!scripts/
+!scripts/**
+
+# Project resources
+!resources/
+!resources/**
+
+# Keep the backup directory itself, but ignore backups
+!backups/
+!backups/.gitkeep
