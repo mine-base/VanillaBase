@@ -23,7 +23,7 @@
 - [x] BetterRTP (+ RTPEvents)
 
 ## QoL Plugins
-- [ ] WorldGuard + WorldEdit (защита административных территорий, таких как Lobby)
+- [x] WorldGuard + WorldEdit (защита административных территорий, таких как Lobby)
 - [ ] LuckPerms (права игроков)
 - [ ] CoreProtect (логирование и откаты)
 - [ ] Проверка совместимости
