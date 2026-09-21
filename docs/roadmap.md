@@ -32,7 +32,7 @@
 - [x] baseline-2
 
 ## Pre-Release
-- [ ] Backup / Restore test
+- [x] Backup / Restore test
 - [ ] Небольшое оформление сервера (аватарка и описание)
 - [ ] Закрытый тест MVP
 - [ ] Финальная проверка настроек
